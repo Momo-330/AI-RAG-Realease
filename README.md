@@ -2,6 +2,8 @@
 
 个人/企业知识库桌面端的公开下载与更新仓库。
 
+当前版本：`2026.1018.01`
+
 ## 下载
 
 - 最新安装包：<https://github.com/Momo-330/AI-RAG-Realease/releases/latest>
